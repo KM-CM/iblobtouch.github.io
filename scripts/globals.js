@@ -28,8 +28,8 @@ offset.totaly = 0;
 var accel = {};
 accel.x = 0;
 accel.y = 0;
-accel.amount = 0.005;
-accel.max = 1;
+accel.amount = 3;
+accel.max = 5;
 
 var input = {};
 input.up = false;
